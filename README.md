@@ -1,5 +1,4 @@
 # Make_yourself_comfortable
-I hope you feel better.
 
 >
 > 우연히 들른 누군가의 하루에 작은 여운이 될 수 있기를 바라며...
@@ -19,10 +18,23 @@ I hope you feel better.
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 >
-> May this quiet corner, filled with code, leave
->
-> a gentle trace in the day of a passerby.
+> To those who stop by by chance —
+> I hope this little space, between lines of code,
+> brings a moment of stillness to your day.
 >
 
 &nbsp;
