@@ -33,7 +33,9 @@
 
 >
 > To those who stop by by chance —
+>
 > I hope this little space, between lines of code,
+>
 > brings a moment of stillness to your day.
 >
 
